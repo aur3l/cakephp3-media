@@ -1,5 +1,5 @@
 {
-    "name": "fm-labs/cakephp3-media",
+    "name": "aur3l/cakephp3-media",
     "description": "Media plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
